@@ -9,7 +9,7 @@
     "url": "https://github.com/JakeSJordan11/electron-from-scratch.git"
   },
   "dependencies": {
-    "electron": "^8.1.0",
+    "electron": "^8.2.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "styled-components": "^5.0.1"
